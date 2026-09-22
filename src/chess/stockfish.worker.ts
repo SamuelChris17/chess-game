@@ -1,0 +1,1 @@
+import "/stockfish/stockfish-19.js";
